@@ -79,7 +79,7 @@ blockquote:after, q:after{content:' „'; font-size:26px; line-height:0;}
 #header nav li{display:inline; margin-right:25px; text-transform:uppercase;}
 #header nav li.last{margin-right:0;}
 #header nav li a{}
-#header nav li a:hover{color:#545454; background-color:#e2dedb;}
+#header nav li a:hover{color:#6262b2; background-color:#e2dedb;}
 
 /*----------------------------------------------Content Area-------------------------------------*/
 
